@@ -19,6 +19,8 @@ fn main() {
     //tuples
     let tup: (i32, f64, char ) = (44, 1.15, 'D');
     let (p, q, r) = tup;
+
+     
     
     //array
     let arr = [1,2,3,4,5,6,7,8,9,0]; 
